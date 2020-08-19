@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E1E1E</color>
+    <color name="colorPrimaryDark">#323232</color>
+    <color name="colorAccent">#ffff</color>
+    <color name="blueColor">#03A9F4</color>
+    <color name="starColor">#CA9800</color>
+    <color name="greenColor">#8BC34A</color>
+    <color name="yellowColor">#FFEB3B</color>
+    <color name="redColor">#FF4C4C</color>
+    <color name="progressBack">#5A5A5A</color>
+
+</resources>
